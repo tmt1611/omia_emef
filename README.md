@@ -1,7 +1,6 @@
 # EMEF: Ensemble Multi-Exposure Image Fusion, AAAI 2023 <a href="https://arxiv.org/abs/2305.12734"><img src="https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg" ></a> 
 
 ## Pretrained Model
-Here we provide our pretrained model:
 
 [Google Drive](https://drive.google.com/drive/folders/13fIAHG2yAgCIoegbA3mv2jP1ZSglG-nR?usp=drive_link) | [Baidu Netdisk](https://pan.baidu.com/s/1m1ijn6o93mIJ_hsoAxlanw?pwd=emef) (code: emef)
 
