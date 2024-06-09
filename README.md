@@ -4,7 +4,8 @@
 
 [Google Drive](https://drive.google.com/drive/folders/13fIAHG2yAgCIoegbA3mv2jP1ZSglG-nR?usp=drive_link) | [Baidu Netdisk](https://pan.baidu.com/s/1m1ijn6o93mIJ_hsoAxlanw?pwd=emef) (code: emef)
 
-## Example of setting up : Clone the repo, install requirements, download weights
+## Setting up : Clone the repo, install requirements, download weights
+Here is an example
 ```
 # Clone
 !git clone https://github.com/tmt1611/omia_emef
