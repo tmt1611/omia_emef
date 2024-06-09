@@ -63,5 +63,5 @@ epoch : epoch of the pretrained model to be loaded
 Further options can be found in the classes contained in options/base_options.py, options/test_options.py, models/infer_models.py, models/base_models.py
 
 ## Inference code
-I wrote the infer_model.py and inference.py based on the paper and the models/base_models.py, models/demo_models.py. Also modified data/HDR_dataset.py to generate 'cls' to feed to model.netG in infer_model.py.
+I wrote the infer_model.py and inference.py based on the paper and the models/base_models.py, models/demo_models.py and modified data/HDR_dataset.py for 'cls' to use in infer_model.py.
 
