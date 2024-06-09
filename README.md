@@ -14,7 +14,6 @@ Here is an example
 !pip install torch torchvision torchaudio
 !pip install -r requirements.txt
 # pretrained
-# pretrained
 !mkdir -p inference
 !wget --header="Host: drive.usercontent.google.com" \
 --header="User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" \
