@@ -50,9 +50,13 @@ Structured as below. The data folder dataroot can be precised when running infer
     --epoch latest
 ```
 dataroot : folder containing data
+
 name : name of the experiment, should has the same name as the folder containing the pretrained weights.
+
 model : name of script containing the model (class) used
+
 results_dir : folder containing the output
+
 epoch : epoch of the pretrained model to be loaded
 
 ## Options
